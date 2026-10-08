@@ -58,6 +58,6 @@ The analysis focuses on:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Amarjit Paul**
